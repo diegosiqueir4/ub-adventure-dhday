@@ -1,4 +1,5 @@
-# WorkAdventure Map for the [Digital Humanities Day #4](https://dhday.rub.de/)
+# UB Adventure:
+### A WorkAdventure Map for the [Digital Humanities Day #4](https://dhday.rub.de/)
 
 ![University Library Bochum map](./UB-Adventure.png)
 
