@@ -1,10 +1,10 @@
-# WorkAdventure Map Starter Kit
+# WorkAdventure Map for the [Digital Humanities Day #4](https://dhday.rub.de/)
 
-![map](./map.png)
+![University Library Bochum map](./ub-bochum.png)
 
-This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
+This [WorkAdventure](https://workadventu.re) map depicting the ground floor of the [University Library Bochum](http://www.ub.rub.de/) was created for the [Digital Humanities Day #4](https://dhday.rub.de/) at [Ruhr University Bochum (RUB)](https://www.ruhr-uni-bochum.de/). As a two-day online conference, DH Day promotes the visibility of the breadth of digital approaches and the networking of RUB's scholars working with Digital Humanities. For more information about DH Day, please visit our [conference website](https://dhday.rub.de/).
 
-To understand how to use this starter kit, follow the tutorial at [https://workadventu.re/map-building](https://workadventu.re/map-building).
+To understand how to create your own map, follow the tutorial at [https://workadventu.re/map-building](https://workadventu.re/map-building).
 
 ## Installation
 
@@ -17,14 +17,10 @@ npm run start
 
 ## Licenses
 
+This map was based on the [WorkAdventure Map Starter Kit](https://github.com/thecodingmachine/workadventure-map-starter-kit) and its artwork was customized by Natalie Rosenkranz with [Tiled](https://www.mapeditor.org/).
+
 This project contains multiple licenses as follows:
 
 * [Code license](./LICENSE.code) *(all files except those for other licenses)*
 * [Map license](./LICENSE.map) *(`map.json` and the map visual as well)*
 * [Assets license](./LICENSE.assets) *(the files inside the `src/assets/` folder)*
-
-### About third party assets
-
-If you add third party assets in your map, do not forget to:
-1. Credit the author and license with the "tilesetCopyright" property present in the properties of each tilesets in the `map.json` file
-2. Add the license text in LICENSE.assets
