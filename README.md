@@ -1,6 +1,6 @@
 # WorkAdventure Map for the [Digital Humanities Day #4](https://dhday.rub.de/)
 
-![University Library Bochum map](./ub-bochum.png)
+![University Library Bochum map](./UB-Adventure.png)
 
 This [WorkAdventure](https://workadventu.re) map depicting the ground floor of the [University Library Bochum](http://www.ub.rub.de/) was created for the [Digital Humanities Day #4](https://dhday.rub.de/) at [Ruhr University Bochum (RUB)](https://www.ruhr-uni-bochum.de/). As a two-day online conference, DH Day promotes the visibility of the breadth of digital approaches and the networking of RUB's scholars working with Digital Humanities. For more information about DH Day, please visit our [conference website](https://dhday.rub.de/).
 
