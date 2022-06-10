@@ -849,7 +849,7 @@
          "value":"script.js"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.8.5",
+ "tiledversion":"1.8.4",
  "tileheight":32,
  "tilesets":[
         {
@@ -956,11 +956,11 @@
         {
          "columns":6,
          "firstgid":1827,
-         "image":"src\/assets\/WA_Logo_Long.png",
+         "image":"src\/assets\/WA_UB_Bochum_Logo.png",
          "imageheight":32,
          "imagewidth":192,
          "margin":0,
-         "name":"WA_Logo_Long",
+         "name":"WA_UB_Bochum_Logo",
          "spacing":0,
          "tilecount":6,
          "tileheight":32,
@@ -980,8 +980,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":6,
          "firstgid":2683,
-         "source":"src\/assets\/WA_Logo_Long_2.tsx"
+         "image":"src\/assets\/WA_DH_Day_Logo.png",
+         "imageheight":72,
+         "imagewidth":192,
+         "margin":0,
+         "name":"WA_DH_Day_Logo",
+         "spacing":0,
+         "tilecount":12,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
