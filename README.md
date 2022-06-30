@@ -3,7 +3,7 @@
 
 ![University Library Bochum map](./UB-Adventure.png)
 
-This [WorkAdventure](https://workadventu.re) map depicting the [University Library Bochum](http://www.ub.rub.de/) was created for the [Digital Humanities Day #4](https://dhday.rub.de/) at [Ruhr University Bochum (RUB)](https://www.ruhr-uni-bochum.de/). It was based on the [WorkAdventure Map Starter Kit](https://github.com/thecodingmachine/workadventure-map-starter-kit) and features five distinct Jitsi meeting rooms.
+This [WorkAdventure](https://workadventu.re) map depicting the [University Library Bochum](http://www.ub.rub.de/) was created for the [Digital Humanities Day #4](https://dhday.rub.de/) at [Ruhr University Bochum (RUB)](https://www.ruhr-uni-bochum.de/). It was based on the [WorkAdventure Map Starter Kit](https://github.com/thecodingmachine/workadventure-map-starter-kit) and features thirteen distinct Jitsi meeting rooms.
 
 As a two-day online conference, DH Day promotes the visibility of the breadth of digital approaches and the networking of RUB's scholars working with Digital Humanities. For more information about DH Day, please visit our [conference website](https://dhday.rub.de/).
 
